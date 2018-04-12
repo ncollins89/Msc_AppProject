@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">AppLogin</string>
+    <string name="login">Login</string>
+
+    <!--
+    <string name="hint_name">Name/string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+
+    <string name="error_message_name">Enter full name</string>
+    <string name="error_message_email">Enter valid email</string>
+    <string name="error_message_age">Enter age</string>
+    <string name="error_message_password">Enter password</string>
+
+    <string name="success_message">Registration is complete</string>
+
+    <string name="text_not_member">Create Account here</string>
+    <string name="text_already_member">Existing member login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password does not match</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+
+    -->
+
+</resources>
